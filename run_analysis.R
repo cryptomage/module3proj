@@ -1,3 +1,4 @@
+library(dplyr)
 
 # Read feature dataset
 # activity labels
